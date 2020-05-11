@@ -1,0 +1,2 @@
+splunk-sdk==1.6.12
+tk-tools==0.12.0
